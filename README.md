@@ -1,6 +1,6 @@
 Hello everyone. I am a Data Scientist with 3 year experience in digital solution implementation. I'm very compromised with the excelency in areas of machine learning and data science.
 
-![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)
+![Python 3.10](https://img.shields.io/badge/python-blue.svg)
 
 
 <!--
