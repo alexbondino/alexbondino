@@ -1,21 +1,24 @@
 Hello everyone. I am a Data Scientist with 3 year experience in digital solution implementation. I'm very compromised with the excelency in areas of machine learning and data science.
 
-__My coding languages:__
+- 🔭 I’m currently working on Walmart Chile
+- 🌱 I’m currently learning ReactJS and how to build pipelines
+- 📫 Write me at dal.smith.d@gmail.com
+- 💬 Visit my [LinkedIn](https://www.linkedin.com/in/daniel-alejandro-smith-de-la-carrera-70135b180/)
+
+## My coding languages
+---
 
 ![Python 3.10](https://img.shields.io/badge/python-blue.svg)
 ![Python 3.10](https://img.shields.io/badge/javascript-blue.svg)
 ![Python 3.10](https://img.shields.io/badge/SQL-blue.svg)
 
-__My coding tools:__
+## My coding tools
+---
 
-![Python 3.10](https://img.shields.io/badge/GCP-green.svg)
-![Python 3.10](https://img.shields.io/badge/PowerBI-green.svg)
-![Python 3.10](https://img.shields.io/badge/Excel-green.svg)
-![Python 3.10](https://img.shields.io/badge/Git-green.svg)
-
-- 🔭 I’m currently working on Walmart Chile
-- 🌱 I’m currently learning ReactJS and how to build pipelines
-- 📫 You can reach me at my mail: dal.smith.d@gmail.com
+![Python 3.10](https://img.shields.io/badge/GCP-darkgreen.svg)
+![Python 3.10](https://img.shields.io/badge/PowerBI-darkgreen.svg)
+![Python 3.10](https://img.shields.io/badge/Excel-darkgreen.svg)
+![Python 3.10](https://img.shields.io/badge/Git-darkgreen.svg)
 
 <!--
 **alexbondino/alexbondino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
