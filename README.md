@@ -1,4 +1,4 @@
-![](figures/background.png)
+![](background.jpg)
 
 Hello everyone. I am a Data Scientist with 3 year experience in digital solution implementation. I'm very compromised with the excelency in areas of machine learning and data science.
 
