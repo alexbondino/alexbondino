@@ -11,6 +11,7 @@ __My coding languages__
 ![Python 3.10](https://img.shields.io/badge/python-blue.svg)
 ![Python 3.10](https://img.shields.io/badge/javascript-blue.svg)
 ![Python 3.10](https://img.shields.io/badge/SQL-blue.svg)
+![Python 3.10](https://img.shields.io/badge/C#-blue.svg)
 
 __My coding tools__
 ---
