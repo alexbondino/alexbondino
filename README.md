@@ -15,7 +15,8 @@ __My coding languages__
 __My coding tools__
 ---
 
-![Python 3.10](https://img.shields.io/badge/GCP-darkgreen.svg)
+![Python 3.10](https://img.shields.io/badge/GCP(Vertex)-darkgreen.svg)
+![Python 3.10](https://img.shields.io/badge/GCP(Bigquery)-darkgreen.svg)
 ![Python 3.10](https://img.shields.io/badge/PowerBI-darkgreen.svg)
 ![Python 3.10](https://img.shields.io/badge/Excel-darkgreen.svg)
 ![Python 3.10](https://img.shields.io/badge/Git-darkgreen.svg)
