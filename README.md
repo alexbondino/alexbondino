@@ -5,14 +5,14 @@ Hello everyone. I am a Data Scientist with 3 year experience in digital solution
 - 📫 Write me at dal.smith.d@gmail.com
 - 💬 Visit my [LinkedIn](https://www.linkedin.com/in/daniel-alejandro-smith-de-la-carrera-70135b180/)
 
-## My coding languages
+__My coding languages__
 ---
 
 ![Python 3.10](https://img.shields.io/badge/python-blue.svg)
 ![Python 3.10](https://img.shields.io/badge/javascript-blue.svg)
 ![Python 3.10](https://img.shields.io/badge/SQL-blue.svg)
 
-## My coding tools
+__My coding tools__
 ---
 
 ![Python 3.10](https://img.shields.io/badge/GCP-darkgreen.svg)
