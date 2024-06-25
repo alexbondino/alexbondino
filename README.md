@@ -1,19 +1,17 @@
 Hello everyone. I am a Data Scientist with 3 year experience in digital solution implementation. I'm very compromised with the excelency in areas of machine learning and data science.
 
-My coding languages:
+__My coding languages:__
 
 ![Python 3.10](https://img.shields.io/badge/python-blue.svg)
 ![Python 3.10](https://img.shields.io/badge/javascript-blue.svg)
 ![Python 3.10](https://img.shields.io/badge/SQL-blue.svg)
 
-My coding tools
+__My coding tools:__
 
 ![Python 3.10](https://img.shields.io/badge/GCP-green.svg)
 ![Python 3.10](https://img.shields.io/badge/PowerBI-green.svg)
 ![Python 3.10](https://img.shields.io/badge/Excel-green.svg)
 ![Python 3.10](https://img.shields.io/badge/Git-green.svg)
-
-
 
 <!--
 **alexbondino/alexbondino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
