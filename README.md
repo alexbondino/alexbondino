@@ -1,4 +1,4 @@
-Hello everyone. I am a Data Scientist with 3 year experience in digital solution implementation. I'm very compromised with the excelency in areas of machine learning and data science.
+Hello everyone. I am Daniel Smith, Data Scientist with 3 year experience in digital solution implementation. I'm very compromised with the excelency in areas of machine learning and data science.
 
 - 🔭 I’m currently working on Walmart Chile
 - 🌱 I’m currently learning ReactJS and how to build pipelines
