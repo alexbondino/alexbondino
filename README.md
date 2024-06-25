@@ -20,6 +20,7 @@ __My coding tools__
 ![Python 3.10](https://img.shields.io/badge/PowerBI-darkgreen.svg)
 ![Python 3.10](https://img.shields.io/badge/Excel-darkgreen.svg)
 ![Python 3.10](https://img.shields.io/badge/Git-darkgreen.svg)
+![Python 3.10](https://img.shields.io/badge/VSCode-darkgreen.svg)
 
 <!--
 **alexbondino/alexbondino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
